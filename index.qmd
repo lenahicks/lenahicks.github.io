@@ -1,11 +1,37 @@
 ---
-title: "lenahicks.github.io"
+title: "Lena Hicks"
+image: headshot.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 23em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/lena-hicks/
+    - text: GitHub
+      href: https://github.com/lenahicks
+    - text: Email
+      href: mailto:lenahicks@ucsb.edu
 ---
 
-This is a Quarto website.
+## Welcome to my website!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am incoming third year student at the University of California, Santa Barbara working towards receiving my bachelors of science in environmental studies. Here is my website that will provide you insight to who I am and all my interest, skills, projects, etc.! Thanks for checking it out, I hope you enjoy!
 
-```{r}
-1 + 1
-```
+### Education
+
+**BS in Environmental Studies (2021 - present)**
+
+University of California, Santa Barbara
+
+### Experience
+
+**FUERTE Fellow (2022 - present)**
+
+Field-based Undergraduate Engagement through Research, Teaching, and Education
+
+[FUERTE Webstie](https://fuerte.eemb.ucsb.edu/)
+
+**MAPAS President (2022 - Present)**
+
+Making Adventures Possible for All Students; Registered Campus Org. at UCSB
